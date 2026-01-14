@@ -1,6 +1,25 @@
 ---
 description: 'Defiverso apresenta: DeFiHack 2026: Uniswap Unlocked'
-coverY: 0
+cover: .gitbook/assets/gitbook_cover.png
+coverY: -67.69138576779021
+coverHeight: 544
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 👽 DeFiHack 2026
@@ -17,4 +36,3 @@ Bem-vindo ao **DeFiHack 2026**! O maior hackathon educacional focado no ecossist
 * Pools de liquidez V3/V4
 * Auto custódia
 * Como o Defiverso e a Uniswap mudaram/mexeram com a sua vida?
-
