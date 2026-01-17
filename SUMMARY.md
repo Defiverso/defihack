@@ -7,3 +7,4 @@
   * [⚖️ Critérios de Avaliação](readme/criterios-de-avaliacao.md)
   * [💰 Premiação](readme/premiacao.md)
   * [📅 Cronograma Oficial](readme/cronograma-oficial.md)
+  * [💾 Recursos](readme/recursos.md)

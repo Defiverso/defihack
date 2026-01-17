@@ -33,6 +33,7 @@ description: >-
   * [https://x.com/Uniswap](https://x.com/Uniswap)
   * [https://www.linkedin.com/company/uniswaporg/](https://www.linkedin.com/company/uniswaporg/)
   * [https://www.instagram.com/uniswap?utm\_source=ig\_web\_button\_share\_sheet\&igsh=ZDNlZDc0MzIxNw==](https://www.instagram.com/uniswap?utm_source=ig_web_button_share_sheet\&igsh=ZDNlZDc0MzIxNw==)
+  * [https://x.com/unichain](https://x.com/unichain)
 * Ana Westfal
   * [https://x.com/anawestfal](https://x.com/anawestfal)
   * [https://www.instagram.com/ana.westfal?utm\_source=ig\_web\_button\_share\_sheet\&igsh=ZDNlZDc0MzIxNw==](https://www.instagram.com/ana.westfal?utm_source=ig_web_button_share_sheet\&igsh=ZDNlZDc0MzIxNw==)
@@ -45,7 +46,7 @@ description: >-
 
 ## Diretrizes Gerais
 
-* **Proibição de Shilling:** É estritamente proibido promover, indicar ou fazer "shilling" de projetos, tokens ou moedas específicas dentro do seu conteúdo.
+* **Proibição de Shilling:** É estritamente proibido promover, recomendar ou fazer shilling de projetos, tokens ou moedas específicas, incluindo o token UNI, dentro do seu conteúdo.
   * **Exemplo:** Se o seu trabalho é sobre Pools de Liquidez, você deve focar na mecânica e no funcionamento da Uniswap, e não falar sobre as vantagens de um par específico ou exaltar de uma moeda.
 * Se o conteúdo produzido for no formato de vídeo, ele deve ter no máximo 10 minutos de duração.
 * Plágio é estritamente proibido, mantenha seu conteúdo original e criativo.&#x20;
