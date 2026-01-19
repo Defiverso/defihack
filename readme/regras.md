@@ -15,7 +15,8 @@ description: >-
 ## Marcações Obrigatórias
 
 * **Uniswap:** Marcar os perfis oficiais da plataforma utilizada na publicação do conteúdo.
-  * [X](https://x.com/Uniswap)
+  * [X Uniswap](https://x.com/Uniswap)
+  * [X Unichain](https://x.com/unichain)
   * [LinkedIn](https://www.linkedin.com/company/uniswaporg/)
   * [Instagram](https://www.instagram.com/uniswap?utm_source=ig_web_button_share_sheet\&igsh=ZDNlZDc0MzIxNw==)
   * No YouTube deixar todos os links na descrição/cometário fixado do vídeo.
@@ -51,3 +52,9 @@ description: >-
 * Se o conteúdo produzido for no formato de vídeo, ele deve ter no máximo 10 minutos de duração.
 * Plágio é estritamente proibido, mantenha seu conteúdo original e criativo.&#x20;
 * A violação das regras vai acarretar em perda de pontos e até desclassificação definitiva do DeFiHack.
+
+## Submissão dos Trabalhos
+
+Todos os trabalhos devem ser submetidos para avaliação por meio do formulário abaixo, qualquer outra forma de entrega não será aceita e será desconsiderada durante a avaliação dos trabalhos.&#x20;
+
+[Formulário DeFiHack 2026 - Uniswap](https://forms.gle/9qpy7K2uXDv5RcLr9)
